@@ -14,5 +14,8 @@
 * After installation and running the command above. I would suggest you download the 'Live Server & SASS complier' extensions for your editor (e.g: VSCode). This would be useful to easily launch the app into a development server, rather than having to setup node configurations that complicates th app.
 * Run the live server and go to "http://localhost:5500/src/views/Dashboard.html" on your browser to access the app.
 
+### FRAMEWORK-BASED IMPLEMENTATION OF THIS PROJECT
 
-### PS:  This project is not a complete work by the way.
+* Here's a link to a React implementaion of this project: https://github.com/Mod5ied/MKobo-React
+
+#### PS:  This project is not a complete work by the way.
